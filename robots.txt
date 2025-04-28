@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://advikmrai.github.io/check-it//sitemap.xml
+Sitemap: https://advikmrai.github.io/ir-portfolio//sitemap.xml
