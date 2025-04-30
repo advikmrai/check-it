@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /goals/
-title: Goals and Objectives
+title: goals
 nav: true
 nav_order: 4
 description: Goals and Objectives

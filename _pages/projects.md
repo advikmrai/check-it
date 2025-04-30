@@ -1,13 +1,18 @@
 ---
 layout: page
-title: projects
+title: development
 permalink: /projects/
-description: Things I do
+description: Research Development
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+- **Research Proposal -** (be sure to highlight what you did for your original data collection and analysis)
+- **Hypothesis/Deliverable Presentation(s)** (describe the purpose of each presentation)
+- **Annotated Source List –** (describe this assignment)
+
 
 <!-- pages/projects.md -->
 <div class="projects">
