@@ -10,4 +10,4 @@ toc:
   sidebar: left
 ---
 
-<embed src="resume1.pdf" width="500" height="375" type="application/pdf">
+<embed src="https://drive.google.com/file/d/1CLtsAOIinSraaBzAPxmamsdfJT9lWfoV/view?usp=sharing" width="500" height="375" type="application/pdf">
