@@ -30,9 +30,7 @@ Dr. Alexander Pantelyat, MD
 Department of Neurology, Center for Music and Medicine, Johns Hopkins University School of Medicine
 Ms. Janine Sharbaugh
 
-profile:
-  align: right
-  image: drp.jpeg
-  image_circular: false # crops the image to make it circular
-  more_info: >
+ <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/drp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
     <p>Dr. Alex Pantelyat</p>
