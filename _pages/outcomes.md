@@ -23,3 +23,7 @@ Research Outcomes
     - https://advikmrai.github.io/algoarias/
     - https://sites.google.com/view/algorithmicarias/home
 
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/HypSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/ProgressSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/ISEFSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/SLCSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>

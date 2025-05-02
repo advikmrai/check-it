@@ -14,3 +14,8 @@ Throughout my research, I have created and delivered several presentations to co
 - **IR Classroom Presentations (December—Jan 2024):** These presentations were required for my Independent Research course at school, summarizing my research progress to teachers and students in other classes to give them even more knowledge.
 - **ISEF-Affiliated Science Fair Slides (March 2025):** This involved creating visuals and descriptions to explain the project undertaken at the State science fair.
 - **SLC Presentation (April 2025):** Preparation for this presentation was a milestone, where I focused on conveying the key concepts behind my work effectively at the county level.
+
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/HypSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/ProgressSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/ISEFSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/SLCSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
