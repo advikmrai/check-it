@@ -25,13 +25,10 @@ Music has a profound impact on our emotional well-being, and music-based interve
 
 Advisors
 ========
-Dr. Alexander Pantelyat, MD
 
-Dr. Kyurim Kang, PhD
+**Dr. Alexander Pantelyat, MD**
 
 Department of Neurology, Center for Music and Medicine, Johns Hopkins University School of Medicine
-
-Ms. Janine Sharbaugh
 
 <div class="col-sm-4 mt-3 mt-md-0">
   <style>
@@ -41,4 +38,32 @@ Ms. Janine Sharbaugh
       }
     </style>      
   {% include figure.liquid path="assets/img/drp.jpg" title="Dr. Pantelyat" caption="Dr. Alex Pantelyat, MD" class="img-fluid rounded z-depth-1" %}
+</div>
+
+**Dr. Kyurim Kang, PhD**
+
+Postdoctoral Research Fellow and Neurologic Music Therapist
+
+<div class="col-sm-4 mt-3 mt-md-0">
+  <style>
+      .img-fluid.rounded.z-depth-1 {
+        max-width: 10%;
+        height: auto;
+      }
+    </style>      
+  {% include figure.liquid path="assets/img/kyurim-kang.jpg" title="Dr. Kang" caption="Dr. Kyurim Kang, PhD" class="img-fluid rounded z-depth-1" %}
+</div>
+
+**Ms. Janine Sharbaugh**
+
+Advanced Research Advisor, River Hill HS
+
+<div class="col-sm-4 mt-3 mt-md-0">
+  <style>
+      .img-fluid.rounded.z-depth-1 {
+        max-width: 10%;
+        height: auto;
+      }
+    </style>      
+  {% include figure.liquid path="assets/img/RHHSLogo.jpeg" title="Janine Sharbaugh" caption="Janine Sharbaugh" class="img-fluid rounded z-depth-1" %}
 </div>
