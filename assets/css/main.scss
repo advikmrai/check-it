@@ -3,6 +3,14 @@
 ---
 @charset "utf-8";
 
+body {
+  background-image: url('assets/img/Background.png'); /* Replace with your image path */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; /* Optional */
+}
+
+
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
