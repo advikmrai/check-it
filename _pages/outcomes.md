@@ -10,8 +10,6 @@ description: Research Outcomes
 Research Outcomes
 =================
 
-
-
 - **Final Synthesis Paper** (2024)
     - https://docs.google.com/document/d/15aTr_WXYRnajtCgIcs8IMolW8tqh6Uip4TQh1vHzy2Q/edit?tab=t.0
 - **Final Oral Presentation** 
@@ -24,3 +22,4 @@ Research Outcomes
 - **Final Product** (2024) 
     - https://advikmrai.github.io/algoarias/
     - https://sites.google.com/view/algorithmicarias/home
+
