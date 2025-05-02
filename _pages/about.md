@@ -34,7 +34,7 @@ Department of Neurology, Center for Music and Medicine, Johns Hopkins University
 <div class="col-sm-4 mt-3 mt-md-0">
   <style>
       .img-fluid.rounded.z-depth-AR {
-        max-width: 25%;
+        max-width: 50%;
         height: auto;
       }
     </style>      
@@ -48,7 +48,7 @@ Postdoctoral Research Fellow and Neurologic Music Therapist
 <div class="col-sm-4 mt-3 mt-md-0">
   <style>
       .img-fluid.rounded.z-depth-AR {
-        max-width: 25%;
+        max-width: 50%;
         height: auto;
       }
     </style>      
@@ -62,7 +62,7 @@ Advanced Research Advisor, River Hill HS
 <div class="col-sm-4 mt-3 mt-md-0">
   <style>
       .img-fluid.rounded.z-depth-AR {
-        max-width: 25%;
+        max-width: 50%;
         height: auto;
       }
     </style>      
