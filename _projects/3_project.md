@@ -12,5 +12,5 @@ Research starts with sources! The Annotated Source List assignment required comp
     - [ASL 2023-24](https://docs.google.com/document/d/1pXUJs_0E9JOI80DilXc7_i1gmeT7NH1PiDAk9LEpBRI/edit?tab=t.0) annotations
     - [ASL 2024-25](https://docs.google.com/document/d/1F_QdUhzFkLCtOY_QLBdErqtHnCDZshlk9sFrr6zHR1E/edit?tab=t.0) (2024-25)
 
-<iframe src="assets/pdf/2024ASL.pdf" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/2024ASL.pdf" width="100%" height="500px" style="border:none;"></iframe>
 <iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/2025ASL.pdf" width="100%" height="500px" style="border:none;"></iframe>
