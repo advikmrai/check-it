@@ -3,6 +3,7 @@ layout: about
 title: home
 permalink: /
 subtitle: River Hill High School '26
+img: assets/img/Background.png
 
 profile:
   align: right
@@ -32,12 +33,12 @@ Department of Neurology, Center for Music and Medicine, Johns Hopkins University
 
 <div class="col-sm-4 mt-3 mt-md-0">
   <style>
-      .img-fluid.rounded.z-depth-1 {
-        max-width: 10%;
+      .img-fluid.rounded.z-depth-AR {
+        max-width: 25%;
         height: auto;
       }
     </style>      
-  {% include figure.liquid path="assets/img/drp.jpg" title="Dr. Pantelyat" caption="Dr. Alex Pantelyat, MD" class="img-fluid rounded z-depth-1" %}
+  {% include figure.liquid path="assets/img/drp.jpg" title="Dr. Pantelyat" caption="Dr. Alex Pantelyat, MD" class="img-fluid rounded z-depth-AR" %}
 </div>
 
 **Dr. Kyurim Kang, PhD**
@@ -46,12 +47,12 @@ Postdoctoral Research Fellow and Neurologic Music Therapist
 
 <div class="col-sm-4 mt-3 mt-md-0">
   <style>
-      .img-fluid.rounded.z-depth-1 {
-        max-width: 10%;
+      .img-fluid.rounded.z-depth-AR {
+        max-width: 25%;
         height: auto;
       }
     </style>      
-  {% include figure.liquid path="assets/img/kyurim-kang.jpg" title="Dr. Kang" caption="Dr. Kyurim Kang, PhD" class="img-fluid rounded z-depth-1" %}
+  {% include figure.liquid path="assets/img/kyurim-kang.jpg" title="Dr. Kang" caption="Dr. Kyurim Kang, PhD" class="img-fluid rounded z-depth-AR" %}
 </div>
 
 **Ms. Janine Sharbaugh**
@@ -60,10 +61,10 @@ Advanced Research Advisor, River Hill HS
 
 <div class="col-sm-4 mt-3 mt-md-0">
   <style>
-      .img-fluid.rounded.z-depth-1 {
-        max-width: 10%;
+      .img-fluid.rounded.z-depth-AR {
+        max-width: 25%;
         height: auto;
       }
     </style>      
-  {% include figure.liquid path="assets/img/RHHSLogo.jpeg" title="Janine Sharbaugh" caption="Janine Sharbaugh" class="img-fluid rounded z-depth-1" %}
+  {% include figure.liquid path="assets/img/RHHSLogo.jpeg" title="Janine Sharbaugh" caption="Janine Sharbaugh" class="img-fluid rounded z-depth-AR" %}
 </div>
