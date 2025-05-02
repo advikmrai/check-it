@@ -34,5 +34,5 @@ Department of Neurology, Center for Music and Medicine, Johns Hopkins University
 Ms. Janine Sharbaugh
 
 <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/drp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/drp.jpg" title="example image" caption="Dr. Alex Pantelyat, MD" class="img-fluid rounded z-depth-1" %}
     </div>
