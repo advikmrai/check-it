@@ -19,11 +19,13 @@ Data Overview
 Understanding the dynamics of musical preferences across different age groups provides valuable insights into the cultural and emotional significance of music in people's lives. This study aims to explore how various factors, such as demographics, listening habits, and prior musical knowledge, influence musical tastes and preferences. By employing a survey research design that encompasses both descriptive and correlational elements, this research seeks to identify significant variations in music preferences and the underlying factors driving these variations among different age groups. 
 
 **Type of data collected**
+
 This portion of the study employed a survey research design that falls under both descriptive and correlational research. Data were collected from 160 participants aged between 12 and 78 as of April 26, 2024, encompassing demographic categories of age, gender, and ethnicity. 
 
 The questionnaire aimed to gather comprehensive information on participants' demographics, music listening habits, and the influences shaping their musical preferences.
 
 **Data collection method**
+
 The online questionnaire was designed using Google Forms. The questionnaire was crafted to be clear, concise, and unbiased to minimize response bias. The questionnaire link was then distributed through various channels such as email, messaging and social media to reach a broad audience. 
 
 Analysis Methods
