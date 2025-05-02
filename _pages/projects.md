@@ -1,7 +1,7 @@
 ---
 layout: page
 title: development
-permalink: /projects/
+permalink: /development/
 description: Research Development
 nav: true
 nav_order: 3
