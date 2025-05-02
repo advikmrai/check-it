@@ -9,6 +9,10 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+Research Development
+====================
+
+
 - **Research Proposal -** (be sure to highlight what you did for your original data collection and analysis)
 - **Hypothesis/Deliverable Presentation(s)** (describe the purpose of each presentation)
 - **Annotated Source List –** (describe this assignment)
