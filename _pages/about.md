@@ -33,4 +33,3 @@ Ms. Janine Sharbaugh
  <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/drp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <p>Dr. Alex Pantelyat</p>
