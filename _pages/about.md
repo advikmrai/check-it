@@ -38,7 +38,7 @@ Department of Neurology, Center for Music and Medicine, Johns Hopkins University
         height: auto;
       }
     </style>      
-  {% include figure.liquid path="assets/img/drp.jpg" title="Dr. Pantelyat" caption="Dr. Alex Pantelyat, MD" class="img-fluid rounded z-depth-AR" %}
+  {% include figure.liquid path="assets/img/drp.jpg" title="Dr. Pantelyat" class="img-fluid rounded z-depth-AR" %}
 </div>
 
 **Dr. Kyurim Kang, PhD**
@@ -52,7 +52,7 @@ Postdoctoral Research Fellow and Neurologic Music Therapist
         height: auto;
       }
     </style>      
-  {% include figure.liquid path="assets/img/kyurim-kang.jpg" title="Dr. Kang" caption="Dr. Kyurim Kang, PhD" class="img-fluid rounded z-depth-AR" %}
+  {% include figure.liquid path="assets/img/kyurim-kang.jpg" title="Dr. Kang" class="img-fluid rounded z-depth-AR" %}
 </div>
 
 **Ms. Janine Sharbaugh**
@@ -66,5 +66,5 @@ Advanced Research Advisor, River Hill HS
         height: auto;
       }
     </style>      
-  {% include figure.liquid path="assets/img/RHHSLogo.jpeg" title="Janine Sharbaugh" caption="Janine Sharbaugh" class="img-fluid rounded z-depth-AR" %}
+  {% include figure.liquid path="assets/img/RHHSLogo.jpeg" title="Janine Sharbaugh" class="img-fluid rounded z-depth-AR" %}
 </div>
