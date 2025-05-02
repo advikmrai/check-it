@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: development
 permalink: /development/
 description: Research Development
