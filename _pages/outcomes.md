@@ -39,11 +39,11 @@ Giving presentations has been an important part of sharing the research progress
 
 **Data Collection**
 
-Generating and presenting the final product, a prototype system integrating Affective Algorithmic Composition (AAC) with Facial Expression Recognition (FER) technology, has involved significant development work. For me, it involved first working with Angular and then transitioning to React code, hosted on platforms like GitHub Pages and Google's Project IDX. Key development tasks involved working on the real-time data tracking system within the web app to continuously monitor and visualize emotional data, fixing and expanding the music player functionality, and addressing challenges like getting emotional readings to work on the main site. The prototype is intended to be capable of generating music based on the user's emotional state. As part of making the application usable for others, an instruction manual was created and made available online. Presenting the final product involves demonstrations of its functioning. The process has involved tackling significant technological challenges, but getting components functioning independently and then working towards pairing them has been a key step. 
-
- <div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-4 mt-3 mt-md-0" style="float: left;">
         {% include figure.liquid path="assets/img/data1.png" title="matplotlib1" class="img-fluid rounded z-depth-1" %}
     </div>
+
+Generating and presenting the final product, a prototype system integrating Affective Algorithmic Composition (AAC) with Facial Expression Recognition (FER) technology, has involved significant development work. For me, it involved first working with Angular and then transitioning to React code, hosted on platforms like GitHub Pages and Google's Project IDX. Key development tasks involved working on the real-time data tracking system within the web app to continuously monitor and visualize emotional data, fixing and expanding the music player functionality, and addressing challenges like getting emotional readings to work on the main site. The prototype is intended to be capable of generating music based on the user's emotional state. As part of making the application usable for others, an instruction manual was created and made available online. Presenting the final product involves demonstrations of its functioning. The process has involved tackling significant technological challenges, but getting components functioning independently and then working towards pairing them has been a key step.  
 
 <div class="col-sm-4 mt-3 mt-md-0" style="float: right;">
     {% include figure.liquid path="assets/img/code1.png" title="matplotlib1" class="img-fluid rounded z-depth-1" %}
