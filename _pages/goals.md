@@ -3,9 +3,12 @@ layout: default
 permalink: /goals/
 title: goals
 nav: true
-nav_order: 4
+nav_order: 2
 description: Goals and Objectives
 --- 
+
+Goals and Objectives
+====================
 
 - Write a paragraph that summarizes your goals for each year and how you felt about those goals by the end of the year.
 - **Year 1 Objectives and Reflection:**
