@@ -23,7 +23,18 @@ Research Outcomes
     - https://advikmrai.github.io/algoarias/
     - https://sites.google.com/view/algorithmicarias/home
 
+**2024 Final Synthesis Paper**
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/2024Paper.pdf" width="100%" height="500px" style="border:none;"></iframe>
+
+
+**Hypothesis Presentation Slides**
 <iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/HypSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+
+**Research Progress Slides**
 <iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/ProgressSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+
+**ISEF Fair Slides**
 <iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/ISEFSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+
+**SLC Conference Slides**
 <iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/SLCSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
