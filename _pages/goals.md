@@ -18,5 +18,9 @@ In my first year (10th grade), my primary objective was to conduct an initial in
 **Year 2 Objectives and Reflection**
 While the methodology of that initial work was less complex compared to my current project, the undertaking of it served as a foundation for understanding key concepts, building familiarity with the esoteric terminologies used through exposure, and overall—getting a grasp of what was present in the literature and what there was a dearth of. Entering my second year (11th grade), my goals became more ambitious and technologically focused: to develop and disseminate working prototype of a system for personalized music therapy using facial recognition and algorithmic music generation; to conduct preliminary testing; to prepare a more methodologically rigorous paper for publication in a peer-reviewed journal, especially with the support, guidance and opportunities that my collaboration with the Center for Music and Medicine provided me.
 
+ <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/av1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+
 As I approach the end of this second year, I note the substantial progress made in app development, data synchronization, and manuscript refinement, despite me facing numerous technical challenges. The process til now has been challenging and incredibly rewarding, but there is still much to go.
 

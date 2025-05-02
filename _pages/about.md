@@ -30,6 +30,6 @@ Dr. Alexander Pantelyat, MD
 Department of Neurology, Center for Music and Medicine, Johns Hopkins University School of Medicine
 Ms. Janine Sharbaugh
 
- <div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/drp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
