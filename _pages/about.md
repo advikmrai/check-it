@@ -42,5 +42,3 @@ Ms. Janine Sharbaugh
     </style>      
   {% include figure.liquid path="assets/img/drp.jpg" title="Dr. Pantelyat" caption="Dr. Alex Pantelyat, MD" class="img-fluid rounded z-depth-1" %}
 </div>
-
-
