@@ -26,8 +26,11 @@ Music has a profound impact on our emotional well-being, and music-based interve
 Advisors
 ========
 Dr. Kyurim Kang, PhD
+
 Dr. Alexander Pantelyat, MD
+
 Department of Neurology, Center for Music and Medicine, Johns Hopkins University School of Medicine
+
 Ms. Janine Sharbaugh
 
 <div class="col-sm-4 mt-3 mt-md-0">
