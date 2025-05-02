@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: River Hill HS '26
+subtitle: River Hill High School '26
 
 profile:
   align: right
