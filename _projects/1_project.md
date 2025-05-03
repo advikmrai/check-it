@@ -38,8 +38,9 @@ The charting capabilities of Google Forms were used to extract primary data from
 
 Google Sheets was used to create graphs, compute statistical measurements like standard deviation and skewness, and create working regression models. Information regarding favorite genres, artists, and mood-influencing kinds of music was collected with the intention of later cross-referencing the genres with the particular timbres they characterize. This can then be linked to certain age groups, people with a particular musical background, etc. 
 
-Results
-=======
+Results Interpretation
+======================
+
 Analysis of the collected data reveals some interesting trends about how musical preferences and influences differ among different age groups.
 
 <div class="col-sm-12 mt-3 mt-md-0">
@@ -47,6 +48,7 @@ Analysis of the collected data reveals some interesting trends about how musical
       .img-fluid.rounded.z-depth-diagram2 {
         max-width: 100%;
         height: auto;
+        border: 2px solid #007bff;
       }
     </style>
         {% include figure.liquid path="assets/img/Figure1.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
