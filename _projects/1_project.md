@@ -63,6 +63,7 @@ Figure 1 explores how often participants in the study reported listening to musi
       .img-fluid.rounded.z-depth-diagram2 {
         max-width: 100%;
         height: auto;
+        border: 2px solid #007bff;
       }
     </style>
         {% include figure.liquid path="assets/img/Figure2.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
@@ -89,6 +90,7 @@ It's also interesting to note that some participants (1%) provided their own rea
       .img-fluid.rounded.z-depth-diagram2 {
         max-width: 100%;
         height: auto;
+        border: 2px solid #007bff;
       }
     </style>
         {% include figure.liquid path="assets/img/Figure3.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
@@ -99,6 +101,7 @@ It's also interesting to note that some participants (1%) provided their own rea
       .img-fluid.rounded.z-depth-diagram2 {
         max-width: 100%;
         height: auto;
+        border: 2px solid #007bff;
       }
     </style>
         {% include figure.liquid path="assets/img/Figure4.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
@@ -111,6 +114,7 @@ The influence of culture and religion on current music preferences (Figure 4) ap
       .img-fluid.rounded.z-depth-diagram2 {
         max-width: 100%;
         height: auto;
+        border: 2px solid #007bff;
       }
     </style>
         {% include figure.liquid path="assets/img/Figure5.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
@@ -121,6 +125,7 @@ The influence of culture and religion on current music preferences (Figure 4) ap
       .img-fluid.rounded.z-depth-diagram2 {
         max-width: 100%;
         height: auto;
+        border: 2px solid #007bff;
       }
     </style>
         {% include figure.liquid path="assets/img/Figure6.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
@@ -135,6 +140,7 @@ For most participants in this study, peer groups and social circles have a moder
       .img-fluid.rounded.z-depth-diagram2 {
         max-width: 100%;
         height: auto;
+        border: 2px solid #007bff;
       }
     </style>
         {% include figure.liquid path="assets/img/Figure7.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
@@ -145,6 +151,7 @@ For most participants in this study, peer groups and social circles have a moder
       .img-fluid.rounded.z-depth-diagram2 {
         max-width: 100%;
         height: auto;
+        border: 2px solid #007bff;
       }
     </style>
         {% include figure.liquid path="assets/img/Figure8.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
@@ -165,6 +172,7 @@ Similar to Figure 3, Figure 6 displays a moderately skewed left distribution. Th
       .img-fluid.rounded.z-depth-diagram2 {
         max-width: 100%;
         height: auto;
+        border: 2px solid #007bff;
       }
     </style>
         {% include figure.liquid path="assets/img/Figure9.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
