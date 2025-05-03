@@ -40,28 +40,28 @@ Results
 =======
 Analysis of the collected data reveals some interesting trends about how musical preferences and influences differ among different age groups.
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-8 mt-3 mt-md-0">
     <style>
-      .img-fluid.rounded.z-depth-diagram1 {
-        max-width: 400%;
+      .img-fluid.rounded.z-depth-diagram2 {
+        max-width: 100%;
         height: auto;
       }
     </style>
-        {% include figure.liquid path="assets/img/Figure1.png" title="" class="img-fluid rounded z-depth-diagram1" %} 
+        {% include figure.liquid path="assets/img/Figure1.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
 
 
 Figure 1 explores how often participants in the study reported listening to music. The data reveals a clear trend towards frequent music listening, with the majority (73%) indicating they listen to music daily or more than three times a day. Music plays a significant role in the daily lives of a large portion of the surveyed population, which may be attributed to the dominantly teenage composition of the group.
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-8 mt-3 mt-md-0">
     <style>
-      .img-fluid.rounded.z-depth-diagram1 {
-        max-width: 400%;
+      .img-fluid.rounded.z-depth-diagram2 {
+        max-width: 100%;
         height: auto;
       }
     </style>
-        {% include figure.liquid path="assets/img/Figure2.png" title="" class="img-fluid rounded z-depth-diagram1" %} 
+        {% include figure.liquid path="assets/img/Figure2.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
 Regarding the information in figure 2, here's what can be said about the top 3 reasons why participants listen to music:
@@ -80,70 +80,70 @@ Regarding the information in figure 2, here's what can be said about the top 3 r
 
 It's also interesting to note that some participants (1%) provided their own reasons for listening to music that weren't among the 9 pre-written options. These included finding ideas for animations, having fun, using music as a pass time (like on long car rides), using it to sleep, for spiritual connection, and to help with singing practice. Figure 2 affirms that people listen to music for a variety of reasons, with relaxation, mood improvement, and entertainment being the most popular choices in this study.
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-8 mt-3 mt-md-0">
     <style>
-      .img-fluid.rounded.z-depth-diagram1 {
-        max-width: 400%;
+      .img-fluid.rounded.z-depth-diagram2 {
+        max-width: 100%;
         height: auto;
       }
     </style>
-        {% include figure.liquid path="assets/img/Figure3.png" title="" class="img-fluid rounded z-depth-diagram1" %} 
+        {% include figure.liquid path="assets/img/Figure3.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-8 mt-3 mt-md-0">
     <style>
-      .img-fluid.rounded.z-depth-diagram1 {
-        max-width: 400%;
+      .img-fluid.rounded.z-depth-diagram2 {
+        max-width: 100%;
         height: auto;
       }
     </style>
-        {% include figure.liquid path="assets/img/Figure4.png" title="" class="img-fluid rounded z-depth-diagram1" %} 
+        {% include figure.liquid path="assets/img/Figure4.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
 The influence of culture and religion on current music preferences (Figure 4) appears to be spread somewhat evenly across the rating scale, with a slight skew towards the lower end. This suggests that for a significant portion of the participants (around 63.3%), culture and religion have a moderate or low influence on their music taste. There is also a notable range of perspectives, with many participants indicating a strong influence and others perceiving little to no influence from these factors.
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-8 mt-3 mt-md-0">
     <style>
-      .img-fluid.rounded.z-depth-diagram1 {
-        max-width: 400%;
+      .img-fluid.rounded.z-depth-diagram2 {
+        max-width: 100%;
         height: auto;
       }
     </style>
-        {% include figure.liquid path="assets/img/Figure5.png" title="" class="img-fluid rounded z-depth-diagram1" %} 
+        {% include figure.liquid path="assets/img/Figure5.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-8 mt-3 mt-md-0">
     <style>
-      .img-fluid.rounded.z-depth-diagram1 {
-        max-width: 400%;
+      .img-fluid.rounded.z-depth-diagram2 {
+        max-width: 100%;
         height: auto;
       }
     </style>
-        {% include figure.liquid path="assets/img/Figure6.png" title="" class="img-fluid rounded z-depth-diagram1" %} 
+        {% include figure.liquid path="assets/img/Figure6.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
 Formal music training (Figure 5) does not appear to have a universally strong influence on current music preferences among the participants in this study. There are distinct groups with opposing views on this topic, but for the majority of participants, any musical lessons had little to no impact on their current choice of music.
 
 For most participants in this study, peer groups and social circles have a moderate influence on their current music preferences (Figure 7). However, there is also a range of individual experiences, with some participants reporting a strong influence from peers and others indicating a minimal impact.
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-8 mt-3 mt-md-0">
     <style>
-      .img-fluid.rounded.z-depth-diagram1 {
-        max-width: 400%;
+      .img-fluid.rounded.z-depth-diagram2 {
+        max-width: 100%;
         height: auto;
       }
     </style>
-        {% include figure.liquid path="assets/img/Figure7.png" title="" class="img-fluid rounded z-depth-diagram1" %} 
+        {% include figure.liquid path="assets/img/Figure7.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-8 mt-3 mt-md-0">
     <style>
-      .img-fluid.rounded.z-depth-diagram1 {
-        max-width: 400%;
+      .img-fluid.rounded.z-depth-diagram2 {
+        max-width: 100%;
         height: auto;
       }
     </style>
-        {% include figure.liquid path="assets/img/Figure8.png" title="" class="img-fluid rounded z-depth-diagram1" %} 
+        {% include figure.liquid path="assets/img/Figure8.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
 The impact of mood on musical preference is massively skewed left (Figure 8) indicating an apparent tendency to choose music that highly reflects one's current mood, which also follows from common sense. Moderately skewed left are the effects of current trending music (Figure 6) and that of family (Figure 3). Participants tend to choose music that aligns somewhat with their family's musical preferences, but he distribution also indicates some participants may deviate significantly from this trend. This could be due to a variety of factors, such as:
@@ -156,14 +156,14 @@ The impact of mood on musical preference is massively skewed left (Figure 8) ind
 
 Similar to Figure 3, Figure 6 displays a moderately skewed left distribution. This suggests a tendency for participants to be somewhat drawn to currently trending music. However, the moderate skew implies there are also participants who are less swayed by current trends and may choose music based on other factors like personal favorites, genre preferences, or a conscious desire to avoid mainstream music.
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="col-sm-8 mt-3 mt-md-0">
     <style>
-      .img-fluid.rounded.z-depth-diagram1 {
-        max-width: 400%;
+      .img-fluid.rounded.z-depth-diagram2 {
+        max-width: 100%;
         height: auto;
       }
     </style>
-        {% include figure.liquid path="assets/img/Figure9.png" title="" class="img-fluid rounded z-depth-diagram1" %} 
+        {% include figure.liquid path="assets/img/Figure9.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
 When age is compared to these impacts, a pattern (though with a chunk of the x-axis of age missing) arises showing a somewhat parabolic curve for emotional impact, suggesting that there may be an age or period of life where mood has a greater influence on the musical habits of the average person. However, a cubic regression yields the R2 value to be only about 0.068 (Figure 9.1), which limits our ability to definitively establish a correlation between age and the emotional impact of music – though the curve does hint at a potential period in life where mood might play a stronger role in music selection. Upon further adjusting via averaging the y-value for each age via the mean, the R2 value rises to 0.402, still indicating a low correlation, exacerbated by the high variance in this data (Figure 9.2). These findings warrant further investigation and data collection (i.e. sheer number of responses from more diverse age groups) to facilitate even more pattern-seeking and to understand all the nuances of how these factors shape music preferences.
