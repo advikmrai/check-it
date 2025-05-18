@@ -33,10 +33,24 @@ WORKDIR /srv/jekyll
 # install jekyll and dependencies
 RUN gem install jekyll bundler
 
+# Copy the Gemfile and Gemfile.lock
+COPY Gemfile Gemfile.lock ./
+
 RUN bundle install --no-cache
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
+
+# ... other instructions ...
+
+# Set execute permissions
+RUN chmod +x /tmp/entry_point.sh
+
+# Set the entry point
+ENTRYPOINT ["/tmp/entry_point.sh"]
+
+# ... other instructions ...
+
 
 CMD ["/tmp/entry_point.sh"]
