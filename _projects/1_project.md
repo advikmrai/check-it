@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Proposal
-description: Original Data Collection and Analysis
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -43,7 +43,7 @@ The questionnaire aimed to gather comprehensive information on participants' dem
 
 **Data collection method**
 
-The online questionnaire was designed using Google Forms. The questionnaire was crafted to be clear, concise, and unbiased to minimize response bias. The questionnaire link was then distributed through various channels such as email, messaging and social media to reach a broad audience. 
+The online questionnaire was designed using Google Forms. The questionnaire was crafted to be clear, concise, and unbiased to minimize response bias. The questionnaire link was then distributed through various channels such as email, messaging and social media to reach a broad audience. You can find the questionnaire [here](https://forms.gle/vk7wyTryTHRZkSw79).
 
 Analysis Methods
 ================
@@ -82,19 +82,19 @@ Figure 1 explores how often participants in the study reported listening to musi
         {% include figure.liquid path="assets/img/Figure2.png" title="" class="img-fluid rounded z-depth-diagram2" %} 
     </div>
 
-Regarding the information in figure 2, here's what can be said about the top 3 reasons why participants listen to music:
+Regarding the information in figure 2, here's what can be said about the top reasons why participants listen to music:
 
-- Relaxation and unwinding: This was the most popular reason, with 90 (59.6%) participants selecting it.
+- **Relaxation and unwinding:** This was the most popular reason, with 90 (59.6%) participants selecting it.
 
-- Improve mood: Closely following in popularity was improving mood, chosen by 91 (60.3%) participants.
+- **Improve mood:** Closely following in popularity was improving mood, chosen by 91 (60.3%) participants.
 
-- Entertainment: 64.2% (97 participants) selected entertainment as a reason for listening to music.
+- **Entertainment:** 64.2% (97 participants) selected entertainment as a reason for listening to music.
 
-- Focus and concentration: While not a top 3 reason, a significant number of participants (65, or 43%) listen to music to help them focus while studying.
+- **Focus and concentration:** While not a top 3 reason, a significant number of participants (65, or 43%) listen to music to help them focus while studying.
 
-- Stress and anxiety: Similarly, managing stress or anxiety was a reason for listening to music for 64 participants (42.4%).
+- **Stress and anxiety:** Similarly, managing stress or anxiety was a reason for listening to music for 64 participants (42.4%).
 
-- Enjoyment of sound: Appreciating the sound of music itself was a reason endorsed by 83 participants (55%).
+- **Enjoyment of sound:** Purely appreciating the sound of music itself was a reason endorsed by 83 participants (55%).
 
 It's also interesting to note that some participants (1%) provided their own reasons for listening to music that weren't among the 9 pre-written options. These included finding ideas for animations, having fun, using music as a pass time (like on long car rides), using it to sleep, for spiritual connection, and to help with singing practice. Figure 2 affirms that people listen to music for a variety of reasons, with relaxation, mood improvement, and entertainment being the most popular choices in this study.
 

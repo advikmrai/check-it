@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ASLs
-description: Annotated Source Lists
+title: Annotated Source Lists
+description: 
 img: assets/img/7.jpg
 importance: 3
 category: work
