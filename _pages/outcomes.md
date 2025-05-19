@@ -14,7 +14,7 @@ Research Outcomes
 - **Final Oral Presentation**
     - [(October 2023) Hypothesis presentation](https://docs.google.com/presentation/d/1CDsA55o8sFG02upBSAxzTq8aTlUtTrOFWSS5--TUj94/edit?slide=id.g2931c4b04e5_0_3#slide=id.g2931c4b04e5_0_3)
     - [(Dec 2023–Jan 2024) Research progress presentation](https://docs.google.com/presentation/d/150d1rJTTvJBxkPsQ9s8d1vj8IAyOJkxbSaodsle5UJY/edit?slide=id.g2ab8278b649_0_0#slide=id.g2ab8278b649_0_0)
-    - [(3/15/2025) ISEF Afilliated Slides](https://docs.google.com/presentation/d/1Q8Kc9PYuzVGudYrvPVaLp3pVNDcbuplonfc6pOoZAZY/edit#slide=id.gb25f3add1a_0_0)
+    - [(June 2024) Oral presentation to experts](https://docs.google.com/presentation/d/1r4K5rqA5f_LMFJiEie5LrcPH7z1lfADZo-tSFt84w24/edit?usp=sharing)
         
 - **Final Products** (2024) 
     - [https://advikmrai.github.io/algoarias/](https://advikmrai.github.io/algoarias/)
@@ -64,10 +64,5 @@ Data collection and analysis are central to the project. The system uses the Mor
 
 <br>
 
-**ISEF Fair Slides**
-<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/ISEFSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
-
-<br>
-
-**SLC Conference Slides**
-<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/SLCSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
+**June 2024 Slides**
+<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/Juneslides.pdf" width="100%" height="500px" style="border:none;"></iframe>

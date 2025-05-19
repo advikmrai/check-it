@@ -17,17 +17,6 @@ Throughout my research, I have created and delivered several presentations to co
 - **SLC Presentation (April 2025):** Preparation for this presentation was a milestone, where I focused on conveying the key concepts behind my work effectively at a large county-level conference with hundreds of attendees. 
 
 
-
-**Hypothesis Presentation**
-<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/HypSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
-
-<br>
-
-**Research Progress Presentation**
-<iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/ProgressSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
-
-<br>
-
 **ISEF Fair Slides (for Printout)**
 <iframe src="https://advikmrai.github.io/ir-portfolio/assets/pdf/ISEFSlides.pdf" width="100%" height="500px" style="border:none;"></iframe>
 
