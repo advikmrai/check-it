@@ -2,7 +2,7 @@
 layout: page
 title: Presentations
 description: 
-img: assets/img/3.jpg
+img: assets/img/Presentations.png
 importance: 2
 category: work
 # giscus_comments: true

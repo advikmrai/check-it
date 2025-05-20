@@ -2,7 +2,7 @@
 layout: page
 title: Annotated Source Lists
 description: 
-img: assets/img/7.jpg
+img: assets/img/Bibliography.jpg
 importance: 3
 category: work
 ---

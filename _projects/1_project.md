@@ -2,7 +2,7 @@
 layout: page
 title: Research Proposal
 description: 
-img: assets/img/12.jpg
+img: assets/img/Proposal.avif
 importance: 1
 category: work
 ---
